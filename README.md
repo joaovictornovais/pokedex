@@ -7,7 +7,7 @@ This project was made with the following technologies:
 + JavaScript;
 + APIs.
 
-## 💻 Projeto
+## 💻 Project
 To learn more about APIs and JavaScript, I decided to made a pokedex following the video by [_Manual do Dev_](https://www.youtube.com/watch?v=SjtdH3dWLa8&ab_channel=ManualdoDev). This application is based only on API Requests from the API [_PokeAPI_](https://pokeapi.co/).
 
 > The user can interact with the pokedex interface by typing the pokemon's name or number, as well as using the 'Prev' button to see the previously pokemon and 'Next' button to see de next pokemon.
